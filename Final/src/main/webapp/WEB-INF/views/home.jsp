@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>이주연</title>
+<title>엄세연</title>
 <link rel="stylesheet" href="/resources/css/index/owl.theme.default.min.css">
 <link rel="stylesheet" href="/resources/css/index/owl.carousel.min.css">
 
