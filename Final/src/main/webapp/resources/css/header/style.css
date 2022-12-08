@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Gowun+Dodum&display=swap');
 :root {
-    --brand: #ffc107;
+    --brand: #dc3545;
     --dark: #092032;
     --body: #516171;
     --border: rgba(0,0,0,0.08);
@@ -104,27 +104,27 @@ section {
 }
 
 .slide1 {
-    background: linear-gradient(rgba(117, 79, 79, 0.4), rgba(0, 0, 0, 0.4)), url("/resources/img/index/메인고고마켓슬라이드.jpg");
+    background: linear-gradient(rgba(117, 79, 79, 0.4), rgba(0, 0, 0, 0.4)), url("/resources/img/index/main_christmas-tree.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .slide2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/resources/img/index/메인고고마켓슬라이드.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/resources/img/index/main_christmas-bakery.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .slide .display-3 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: #fff;
 }
 
 /* navbar */
 .top-nav {
-    background-color: #ffc107;
+    background-color: #dc3545;
     color: #fff;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -189,7 +189,7 @@ section {
 }
 
 .navbar-brand .dot {
-    color: #ffc107;
+    color: #dc3545;
 }
 
 .btn {
@@ -198,14 +198,14 @@ section {
 
 .btn-brand {
     border-color:
-    #ffc107;
-    background-color: #ffc107;
+    #dc3545;
+    background-color: #dc3545;
     color: #fff;
 }
 
 .btn-brand1 {
     border: none;
-    border-bottom: 2px solid  #ffc107;
+    border-bottom: 2px solid  #dc3545;
     color: black;
     border-radius: 0px;
     margin-bottom: 8px;
@@ -219,15 +219,15 @@ section {
 }
 
 .btn-brand:hover {
-    background-color: #ffc107;
-    border-color: #f7d675;
-    background-color: #f7d675;
+    background-color: #dc3545;
+    border-color: #d15662;
+    background-color: #d15662;
     color: rgb(255, 255, 255);
 }
 .btn-brand1:hover {
-    background-color: #ffc107;
-    border-color: #f7d675;
-    background-color: #f7d675;
+    background-color: #dc3545;
+    border-color: #d15662;
+    background-color: #d15662;
     color: rgb(255, 255, 255);
 }
 
