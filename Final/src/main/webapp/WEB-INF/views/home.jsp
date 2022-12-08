@@ -17,7 +17,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center text-white">
-						<h1 class="display-3 my-4">Atelier<br />For Sweet & Healthy Life
+						<h1 class="display-3 my-4">bonjour noël<br />For Sweet & Healthy Life
 						</h1> <a href="#" class="btn btn-brand" id="font">Market</a>
 					</div>
 				</div>
@@ -26,11 +26,16 @@
 		<div class="slide slide2">
 			<div class="container">
 				<div class="row">
-					<div class="col-12 col-lg-10 offset-lg-1 text-white">
+					<div class="col-12 text-center text-white">
+						<h1 class="display-3 my-4"><br />Cooking & Bakery
+						</h1> <a href="#" class="btn btn-brand" id="font">Class</a>
+					</div>
+				
+					<!-- <div class="col-12 col-lg-10 offset-lg-1 text-white">
 						<h6 class="text-white text-uppercase" id="font">천연 식재료로 만들어 보는 건강</h6>
 						<h1 class="display-3 my-4">Cooking & Class <br />
 						</h1> <a href="#" class="btn btn-brand" id="font">Class</a>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>

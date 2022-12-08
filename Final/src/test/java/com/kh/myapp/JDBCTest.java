@@ -19,7 +19,7 @@ public class JDBCTest {
 	
 	@Test
 	public void testConnection() {
-		try(Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "khfinal", "0630")){
+		try(Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl", "khfinal", "0630")){
 			System.out.println(con);
 			System.out.println("연결 성공");
 			
