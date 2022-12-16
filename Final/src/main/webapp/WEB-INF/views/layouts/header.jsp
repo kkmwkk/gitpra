@@ -15,10 +15,10 @@
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="navbar-nav">
 				<li class="nav-item">
-					<a class="nav-link" href="#">About us</a>
+					<a class="nav-link" href="">About us</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Market</a>
+					<a class="nav-link" href="/market/marketDetailView?regPage=1">Market</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="/classList.do?reqPage=1">Class</a>

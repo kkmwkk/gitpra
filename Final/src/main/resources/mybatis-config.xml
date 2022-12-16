@@ -11,7 +11,8 @@
 	</settings>
 	
 	<typeAliases>
-
+		<typeAlias type="com.kh.myapp.market.model.vo.MarketReviewVO" alias="marketReviewVO"/>
+		<typeAlias type="com.kh.myapp.market.model.vo.MarketQnaVO" alias="marketQnaVO"/>
 	</typeAliases>
 </configuration>       
 
