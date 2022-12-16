@@ -8,7 +8,7 @@
 <!-- BOTTOM NAV -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top">
 	<div class="container">
-		<a class="navbar-brand" href="#">bonjour noël<span class="dot">!</span></a>
+		<a class="navbar-brand" href="/">bonjour noël<span class="dot">!</span></a>
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -21,7 +21,7 @@
 					<a class="nav-link" href="#">Market</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Class</a>
+					<a class="nav-link" href="/classList.do?reqPage=1">Class</a>
 				</li>
 				
 				<li class="nav-item">
