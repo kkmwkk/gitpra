@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>엄세연</title>
+<title>봉쥬르~노엘</title>
 <link rel="stylesheet" href="/resources/css/index/owl.theme.default.min.css">
 <link rel="stylesheet" href="/resources/css/index/owl.carousel.min.css">
 
